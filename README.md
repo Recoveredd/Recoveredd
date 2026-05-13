@@ -2,7 +2,7 @@
 
 Small TypeScript utilities for practical developer workflows.
 
-I maintain 18 focused packages for JSON rendering, table conversion, path inspection, CSV exports, SVG parsing, front matter, data URLs, text matching, migration helpers, and other small pieces of developer tooling.
+I maintain 19 focused packages for JSON rendering, table conversion, path inspection, CSV exports, SVG parsing, front matter, data URLs, text matching, migration helpers, interactive hex grids, and other small pieces of developer tooling.
 
 The goal is simple: tiny APIs, predictable behavior, browser-friendly builds, and useful diagnostics instead of black-box helpers.
 
@@ -34,6 +34,7 @@ The goal is simple: tiny APIs, predictable behavior, browser-friendly builds, an
 | [`jmx-k6-migration-kit`](https://github.com/Recoveredd/jmx-k6-migration-kit) | Audit JMeter JMX files and generate k6 migration scaffolds. | [Demo](https://packages.wasta-wocket.fr/jmx-k6-migration-kit/) |
 | [`proto-form-kit`](https://github.com/Recoveredd/proto-form-kit) | Turn Protocol Buffer schemas into form-friendly metadata. | [Demo](https://packages.wasta-wocket.fr/proto-form-kit/) |
 | [`number-range-list-kit`](https://github.com/Recoveredd/number-range-list-kit) | Parse integer range lists with diagnostics and bounded expansion. | [Demo](https://packages.wasta-wocket.fr/number-range-list-kit/) |
+| [`hex-grid-kit`](https://github.com/Recoveredd/hex-grid-kit) | Build interactive SVG hex grids with cube coordinates and hit testing. | [Demo](https://packages.wasta-wocket.fr/hex-grid-kit/) |
 
 ## Principles
 

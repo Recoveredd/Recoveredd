@@ -2,7 +2,7 @@
 
 Small TypeScript utilities for practical developer workflows.
 
-I maintain 19 focused packages for JSON rendering, table conversion, path inspection, CSV exports, SVG parsing, front matter, data URLs, text matching, migration helpers, interactive hex grids, and other small pieces of developer tooling.
+I maintain 20 focused packages for JSON rendering, table conversion, path inspection, file path validation, CSV exports, SVG parsing, front matter, data URLs, text matching, migration helpers, interactive hex grids, and other small pieces of developer tooling.
 
 The goal is simple: tiny APIs, predictable behavior, browser-friendly builds, and useful diagnostics instead of black-box helpers.
 
@@ -35,6 +35,7 @@ The goal is simple: tiny APIs, predictable behavior, browser-friendly builds, an
 | [`proto-form-kit`](https://github.com/Recoveredd/proto-form-kit) | Turn Protocol Buffer schemas into form-friendly metadata. | [Demo](https://packages.wasta-wocket.fr/proto-form-kit/) |
 | [`number-range-list-kit`](https://github.com/Recoveredd/number-range-list-kit) | Parse integer range lists with diagnostics and bounded expansion. | [Demo](https://packages.wasta-wocket.fr/number-range-list-kit/) |
 | [`hex-grid-kit`](https://github.com/Recoveredd/hex-grid-kit) | Build interactive SVG hex grids with cube coordinates and hit testing. | [Demo](https://packages.wasta-wocket.fr/hex-grid-kit/) |
+| [`filepath-validator-kit`](https://github.com/Recoveredd/filepath-validator-kit) | Validate file paths with portable, POSIX and Windows diagnostics. | [Demo](https://packages.wasta-wocket.fr/filepath-validator-kit/) |
 
 ## Principles
 

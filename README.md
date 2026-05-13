@@ -2,7 +2,7 @@
 
 Small TypeScript utilities for practical developer workflows.
 
-I maintain focused packages for JSON rendering, table conversion, path inspection, CSV exports, SVG parsing, front matter, data URLs, text matching, and other small pieces of developer tooling.
+I maintain 18 focused packages for JSON rendering, table conversion, path inspection, CSV exports, SVG parsing, front matter, data URLs, text matching, migration helpers, and other small pieces of developer tooling.
 
 The goal is simple: tiny APIs, predictable behavior, browser-friendly builds, and useful diagnostics instead of black-box helpers.
 
@@ -26,20 +26,14 @@ The goal is simple: tiny APIs, predictable behavior, browser-friendly builds, an
 | [`svg-ast-kit`](https://github.com/Recoveredd/svg-ast-kit) | Parse SVG markup into a typed JSON AST. | [Demo](https://packages.wasta-wocket.fr/svg-ast-kit/) |
 | [`frontmatter-kit`](https://github.com/Recoveredd/frontmatter-kit) | Parse front matter with ranges and diagnostics. | [Demo](https://packages.wasta-wocket.fr/frontmatter-kit/) |
 | [`data-url-kit`](https://github.com/Recoveredd/data-url-kit) | Parse and inspect data URLs with metadata and diagnostics. | [Demo](https://packages.wasta-wocket.fr/data-url-kit/) |
-
-## GitHub previews
-
-These libraries are already available on GitHub and have interactive previews while npm publication is pending.
-
-| Package | What it does | Preview |
-| --- | --- | --- |
-| [`hex-color-token-kit`](https://github.com/Recoveredd/hex-color-token-kit) | Extract and validate CSS hex color tokens. | [Preview](https://packages.wasta-wocket.fr/hex-color-token-kit/) |
-| [`human-duration-parse-kit`](https://github.com/Recoveredd/human-duration-parse-kit) | Parse human duration strings into milliseconds. | [Preview](https://packages.wasta-wocket.fr/human-duration-parse-kit/) |
-| [`import-specifier-scan-kit`](https://github.com/Recoveredd/import-specifier-scan-kit) | Scan JavaScript source for import and require specifiers. | [Preview](https://packages.wasta-wocket.fr/import-specifier-scan-kit/) |
-| [`localized-price-parse-kit`](https://github.com/Recoveredd/localized-price-parse-kit) | Parse localized price strings into decimal values and currency hints. | [Preview](https://packages.wasta-wocket.fr/localized-price-parse-kit/) |
-| [`css-font-shorthand-kit`](https://github.com/Recoveredd/css-font-shorthand-kit) | Parse and format CSS font shorthand values. | [Preview](https://packages.wasta-wocket.fr/css-font-shorthand-kit/) |
-| [`jmx-k6-migration-kit`](https://github.com/Recoveredd/jmx-k6-migration-kit) | Audit JMeter JMX files and generate k6 migration scaffolds. | [Preview](https://packages.wasta-wocket.fr/jmx-k6-migration-kit/) |
-| [`proto-form-kit`](https://github.com/Recoveredd/proto-form-kit) | Turn Protocol Buffer schemas into form-friendly metadata. | [Preview](https://packages.wasta-wocket.fr/proto-form-kit/) |
+| [`hex-color-token-kit`](https://github.com/Recoveredd/hex-color-token-kit) | Extract and validate CSS hex color tokens. | [Demo](https://packages.wasta-wocket.fr/hex-color-token-kit/) |
+| [`human-duration-parse-kit`](https://github.com/Recoveredd/human-duration-parse-kit) | Parse human duration strings into structured units. | [Demo](https://packages.wasta-wocket.fr/human-duration-parse-kit/) |
+| [`import-specifier-scan-kit`](https://github.com/Recoveredd/import-specifier-scan-kit) | Scan JavaScript source for import and require specifiers. | [Demo](https://packages.wasta-wocket.fr/import-specifier-scan-kit/) |
+| [`localized-price-parse-kit`](https://github.com/Recoveredd/localized-price-parse-kit) | Parse localized price strings into decimal values and currency hints. | [Demo](https://packages.wasta-wocket.fr/localized-price-parse-kit/) |
+| [`css-font-shorthand-kit`](https://github.com/Recoveredd/css-font-shorthand-kit) | Parse and format CSS font shorthand values. | [Demo](https://packages.wasta-wocket.fr/css-font-shorthand-kit/) |
+| [`jmx-k6-migration-kit`](https://github.com/Recoveredd/jmx-k6-migration-kit) | Audit JMeter JMX files and generate k6 migration scaffolds. | [Demo](https://packages.wasta-wocket.fr/jmx-k6-migration-kit/) |
+| [`proto-form-kit`](https://github.com/Recoveredd/proto-form-kit) | Turn Protocol Buffer schemas into form-friendly metadata. | [Demo](https://packages.wasta-wocket.fr/proto-form-kit/) |
+| [`number-range-list-kit`](https://github.com/Recoveredd/number-range-list-kit) | Parse integer range lists with diagnostics and bounded expansion. | [Demo](https://packages.wasta-wocket.fr/number-range-list-kit/) |
 
 ## Principles
 

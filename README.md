@@ -49,6 +49,7 @@ These packages are ready on GitHub while npm publication is pending. Some have i
 | [`junit-report-doctor-kit`](https://github.com/Recoveredd/junit-report-doctor-kit) | Normalize JUnit XML reports with stable CI diagnostics and a small CLI. | [Preview](https://packages.wasta-wocket.fr/junit-report-doctor-kit/) |
 | [`har-redaction-kit`](https://github.com/Recoveredd/har-redaction-kit) | Redact sensitive HAR headers, cookies, query values and JSON bodies with deterministic reports. | [Preview](https://packages.wasta-wocket.fr/har-redaction-kit/) |
 | [`http-cache-control-kit`](https://github.com/Recoveredd/http-cache-control-kit) | Parse and format HTTP Cache-Control headers with typed diagnostics. | [Preview](https://packages.wasta-wocket.fr/http-cache-control-kit/) |
+| [`http-accept-language-kit`](https://github.com/Recoveredd/http-accept-language-kit) | Parse, format and lightly match HTTP Accept-Language headers. | [Preview](https://packages.wasta-wocket.fr/http-accept-language-kit/) |
 
 ## Principles
 

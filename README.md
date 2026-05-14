@@ -47,7 +47,7 @@ These packages are ready on GitHub while npm publication is pending. Some have i
 | [`file-extension-inspect-kit`](https://github.com/Recoveredd/file-extension-inspect-kit) | Inspect filename extensions with dotfile, extensionless and compound-extension policies. | [Preview](https://packages.wasta-wocket.fr/file-extension-inspect-kit/) |
 | [`large-log-viewer-kit`](https://github.com/Recoveredd/large-log-viewer-kit) | Inspect and render large browser logs with virtual windows, chunked search and safe ANSI-aware HTML helpers. | [Preview](https://packages.wasta-wocket.fr/large-log-viewer-kit/) |
 | [`junit-report-doctor-kit`](https://github.com/Recoveredd/junit-report-doctor-kit) | Normalize JUnit XML reports with stable CI diagnostics and a small CLI. | [Preview](https://packages.wasta-wocket.fr/junit-report-doctor-kit/) |
-| [`har-redaction-kit`](https://github.com/Recoveredd/har-redaction-kit) | Redact sensitive fields from HAR files with deterministic reports for support handoffs. | [Preview](https://packages.wasta-wocket.fr/har-redaction-kit/) |
+| [`har-redaction-kit`](https://github.com/Recoveredd/har-redaction-kit) | Redact sensitive HAR headers, cookies, query values and JSON bodies with deterministic reports. | [Preview](https://packages.wasta-wocket.fr/har-redaction-kit/) |
 
 ## Principles
 

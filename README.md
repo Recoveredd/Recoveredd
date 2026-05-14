@@ -39,13 +39,14 @@ The goal is simple: tiny APIs, predictable behavior, browser-friendly builds, an
 
 ## GitHub previews
 
-These packages are ready on GitHub and have interactive portfolio previews while npm publication is pending.
+These packages are ready on GitHub while npm publication is pending. Some have interactive portfolio previews when a browser demo is useful.
 
-| Package | What it does | Preview |
+| Package | What it does | Link |
 | --- | --- | --- |
 | [`numeric-unit-parse-kit`](https://github.com/Recoveredd/numeric-unit-parse-kit) | Parse numeric values with units into structured amounts, normalized strings and diagnostics. | [Preview](https://packages.wasta-wocket.fr/numeric-unit-parse-kit/) |
 | [`file-extension-inspect-kit`](https://github.com/Recoveredd/file-extension-inspect-kit) | Inspect filename extensions with dotfile, extensionless and compound-extension policies. | [Preview](https://packages.wasta-wocket.fr/file-extension-inspect-kit/) |
 | [`large-log-viewer-kit`](https://github.com/Recoveredd/large-log-viewer-kit) | Inspect and render large browser logs with virtual windows, chunked search and safe ANSI-aware HTML helpers. | [Preview](https://packages.wasta-wocket.fr/large-log-viewer-kit/) |
+| [`junit-report-doctor-kit`](https://github.com/Recoveredd/junit-report-doctor-kit) | Normalize JUnit XML reports with stable CI diagnostics and a small CLI. | [GitHub](https://github.com/Recoveredd/junit-report-doctor-kit) |
 
 ## Principles
 

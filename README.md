@@ -2,7 +2,7 @@
 
 Small TypeScript utilities for practical developer workflows.
 
-I maintain 20 published packages for JSON rendering, table conversion, path inspection, file path validation, CSV exports, SVG parsing, front matter, data URLs, text matching, migration helpers, interactive hex grids, and other small pieces of developer tooling. A few additional packages are staged as GitHub previews before npm publication, including support-oriented tools for logs, reports and HAR cleanup.
+I maintain 20 published packages for JSON rendering, table conversion, path inspection, file path validation, CSV exports, SVG parsing, front matter, data URLs, text matching, migration helpers, interactive hex grids, and other small pieces of developer tooling. A few additional packages are staged as GitHub previews before npm publication, including support-oriented tools for logs, reports, HTTP headers and HAR cleanup.
 
 The goal is simple: tiny APIs, predictable behavior, browser-friendly builds, and useful diagnostics instead of black-box helpers.
 
@@ -48,6 +48,7 @@ These packages are ready on GitHub while npm publication is pending. Some have i
 | [`large-log-viewer-kit`](https://github.com/Recoveredd/large-log-viewer-kit) | Inspect and render large browser logs with virtual windows, chunked search and safe ANSI-aware HTML helpers. | [Preview](https://packages.wasta-wocket.fr/large-log-viewer-kit/) |
 | [`junit-report-doctor-kit`](https://github.com/Recoveredd/junit-report-doctor-kit) | Normalize JUnit XML reports with stable CI diagnostics and a small CLI. | [Preview](https://packages.wasta-wocket.fr/junit-report-doctor-kit/) |
 | [`har-redaction-kit`](https://github.com/Recoveredd/har-redaction-kit) | Redact sensitive HAR headers, cookies, query values and JSON bodies with deterministic reports. | [Preview](https://packages.wasta-wocket.fr/har-redaction-kit/) |
+| [`http-cache-control-kit`](https://github.com/Recoveredd/http-cache-control-kit) | Parse and format HTTP Cache-Control headers with typed diagnostics. | [Preview](https://packages.wasta-wocket.fr/http-cache-control-kit/) |
 
 ## Principles
 

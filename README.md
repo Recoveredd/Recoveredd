@@ -2,7 +2,7 @@
 
 Small TypeScript utilities for practical developer workflows.
 
-I maintain 20 focused packages for JSON rendering, table conversion, path inspection, file path validation, CSV exports, SVG parsing, front matter, data URLs, text matching, migration helpers, interactive hex grids, and other small pieces of developer tooling.
+I maintain 20 published packages for JSON rendering, table conversion, path inspection, file path validation, CSV exports, SVG parsing, front matter, data URLs, text matching, migration helpers, interactive hex grids, and other small pieces of developer tooling. A few additional packages are staged as GitHub previews before npm publication.
 
 The goal is simple: tiny APIs, predictable behavior, browser-friendly builds, and useful diagnostics instead of black-box helpers.
 
@@ -36,6 +36,15 @@ The goal is simple: tiny APIs, predictable behavior, browser-friendly builds, an
 | [`number-range-list-kit`](https://github.com/Recoveredd/number-range-list-kit) | Parse integer range lists with diagnostics and bounded expansion. | [Demo](https://packages.wasta-wocket.fr/number-range-list-kit/) |
 | [`hex-grid-kit`](https://github.com/Recoveredd/hex-grid-kit) | Build interactive SVG hex grids with cube coordinates and hit testing. | [Demo](https://packages.wasta-wocket.fr/hex-grid-kit/) |
 | [`filepath-validator-kit`](https://github.com/Recoveredd/filepath-validator-kit) | Validate file paths with portable, POSIX and Windows diagnostics. | [Demo](https://packages.wasta-wocket.fr/filepath-validator-kit/) |
+
+## GitHub previews
+
+These packages are ready on GitHub and have interactive portfolio previews while npm publication is pending.
+
+| Package | What it does | Preview |
+| --- | --- | --- |
+| [`numeric-unit-parse-kit`](https://github.com/Recoveredd/numeric-unit-parse-kit) | Parse numeric values with units into structured amounts, normalized strings and diagnostics. | [Preview](https://packages.wasta-wocket.fr/numeric-unit-parse-kit/) |
+| [`file-extension-inspect-kit`](https://github.com/Recoveredd/file-extension-inspect-kit) | Inspect filename extensions with dotfile, extensionless and compound-extension policies. | [Preview](https://packages.wasta-wocket.fr/file-extension-inspect-kit/) |
 
 ## Principles
 

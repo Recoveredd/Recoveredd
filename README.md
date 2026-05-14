@@ -45,6 +45,7 @@ These packages are ready on GitHub and have interactive portfolio previews while
 | --- | --- | --- |
 | [`numeric-unit-parse-kit`](https://github.com/Recoveredd/numeric-unit-parse-kit) | Parse numeric values with units into structured amounts, normalized strings and diagnostics. | [Preview](https://packages.wasta-wocket.fr/numeric-unit-parse-kit/) |
 | [`file-extension-inspect-kit`](https://github.com/Recoveredd/file-extension-inspect-kit) | Inspect filename extensions with dotfile, extensionless and compound-extension policies. | [Preview](https://packages.wasta-wocket.fr/file-extension-inspect-kit/) |
+| [`large-log-viewer-kit`](https://github.com/Recoveredd/large-log-viewer-kit) | Inspect and render large browser logs with virtual windows, chunked search and safe ANSI-aware HTML helpers. | [Preview](https://packages.wasta-wocket.fr/large-log-viewer-kit/) |
 
 ## Principles
 
